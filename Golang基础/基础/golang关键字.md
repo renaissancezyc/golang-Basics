@@ -1,0 +1,26 @@
+# Golang的25个关键字:
+1. **break**：break用于跳出循环
+2. **default**：用于选择结构的默认选项（switch、select）
+3. **func**：用于函数定义
+4. **select**：Go 中的一个控制结构，类似于用于通信的 switch 语句。每个 case 必须是一个通信操作，要么是发送要么是接收。
+5. **case**：选择结构标签
+6. **chan**：定义channel
+7. **interface**：定义接口
+8. **const**：定义常量
+9. **continue**：跳过本次循环
+10. **defer**：延迟执行函数
+11. **go**：并发执行
+12. **map**：map类型
+13. **struct**：定义结构体
+14. **switch**：选择结构
+15. **if**：选择结构
+16. **else**：选择结构
+17. **goto**：跳转语句
+18. **package**：包
+19. **fallthrough**：case加上它，程序会继续执行下一条，不会判断下一条case的值
+20. **var**：定义变量
+21. **return**：返回
+22. **import**：导入包
+23. **type**：定义类型
+24. **range**：遍历slice、map等结构元素
+25. **for**：循环语句
